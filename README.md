@@ -29,7 +29,7 @@ Replace the placeholder values with your own certificate filename, PFX password,
 ```sh
 Variable	                  Default                             value	Action
 PFX_SOURCE_DIR	            /home/administrator	                Change if the PFX file is stored elsewhere.
-PFX_FILE	                  <your-file-name>.pfx	              Set your own PFX filename.
+PFX_FILE	                 <your-file-name>.pfx	              Set your own PFX filename.
 PFX_PASSWORD	              your-password	                      Enter your PFX password.
 DB_NAME	                    your-db-name	                      Set your database name.
 DB_USER	                    your-user	                          Set your database username.
